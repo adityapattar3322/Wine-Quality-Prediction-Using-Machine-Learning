@@ -1,8 +1,8 @@
 # Wine Quality Prediction
 
-Wine Quality Prediction is a research-driven project aimed at predicting the quality of wine using chemical properties such as pH, acidity, and alcohol content. 
-This project employs data analysis and machine learning techniques to derive insights and build predictive models. 
-The research also explores hyperparameter tuning, feature importance analysis, and comparative performance evaluation of multiple machine learning algorithms.
+- Wine Quality Prediction is a research-driven project aimed at predicting the quality of wine using chemical properties such as pH, acidity, and alcohol content. 
+- This project employs data analysis and machine learning techniques to derive insights and build predictive models. 
+- The research also explores hyperparameter tuning, feature importance analysis, and comparative performance evaluation of multiple machine learning algorithms.
 
 ## What the Project Does
 
@@ -32,7 +32,7 @@ This project incorporates and compares the following algorithms:
 
 ### Hyperparameter Tuning
 - Hyperparameter tuning was performed for all machine learning algorithms to optimize their performance.  
-- Techniques such as **GridSearchCV** and **RandomizedSearchCV** were utilized to identify the best parameter combinations for each algorithm (e.g., `n_estimators`, `max_depth`, `kernel`, `learning_rate`, etc.).  
+- Techniques such as **GridSearchCV** was utilized to identify the best parameter combinations for each algorithm (e.g., `n_estimators`, `max_depth`, `kernel`, `learning_rate`, etc.).  
 - Optimal hyperparameters significantly improved model accuracy and reliability.
 
 ### Algorithm Comparison
